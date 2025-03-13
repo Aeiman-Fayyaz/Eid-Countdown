@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 .hero{
-    background-image: url(Images/Backgraound.png);
-    background: cover , center;
+    background-image: url(Images/1436535-ramadan-2024.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.time{
+    background-color: rgba(25, 25, 112, 0.74);
+    border-radius: 5px;
 }
